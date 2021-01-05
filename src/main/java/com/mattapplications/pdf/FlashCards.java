@@ -1,4 +1,4 @@
-package com.mattapplications;
+package com.mattapplications.pdf;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;
