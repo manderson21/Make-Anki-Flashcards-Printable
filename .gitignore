@@ -1,0 +1,8 @@
+# Default ignored files
+/.idea
+*.iml
+*.pdf
+# Datasource local storage ignored files
+/../../../../../:\software\java-projects\FlashCardGenerator\.idea/dataSources/
+/dataSources.local.xml
+
