@@ -3,6 +3,8 @@
 /target
 *.iml
 *.pdf
+*.txt
+*.crv
 # Datasource local storage ignored files
 /../../../../../:\software\java-projects\FlashCardGenerator\.idea/dataSources/
 /dataSources.local.xml
